@@ -3,6 +3,9 @@ A Friday Night Funkin' bot that is able to play songs for you with little to no 
 
 This bot works well enough as far as tested and will be improved and sped up in the future. Tell me if you have any issues and I will try to solve them ASAP.
 
+If you like the bot and want to support what I do you can donate at my new patreon:
+https://www.patreon.com/RossGames
+
 DISCLAIMER: Yes it is gonna miss a few when thrown into a really fast song, but what matters is that the overall score is high, and besides, it kinda helps if you wanna make it seem real
 
 Now have fun!  
